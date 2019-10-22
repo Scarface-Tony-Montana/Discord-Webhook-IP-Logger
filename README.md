@@ -7,8 +7,7 @@ This is a PHP IP logger I made that sends the IP's to a Discord webhook.
 # How to use
 Step 1: Go into the settings of your Discord server, click webhooks and create one then copy the link to it.  
 Step 2: Put in the field of `$webhookurl = "";` with https://discordapp.com/api/webhooks/ included at the beginning.
-Step 3: Upload the file to your website (you can use external webhosting such as 000webhost if you dont have a website/domain)
-
+<br>Step 3: Upload the file to your website (you can use external webhosting such as 000webhost if you dont have a website/domain)
 
 # Changelog
 Version: v1
