@@ -12,8 +12,7 @@ Step 3: Upload the file to your website (you can use external webhosting such as
 
 # Changelog
 Version: v1
-Information:
-<br>I will be updating this for better use in the future.
+<br>Information: I will be updating this for better use in the future.
 
 # Developer
 I, ᴮᵉᵗᵗᵉʳ ᴼᶠᶠ ᴳᵒⁿᵉ#0869, am the original creator of this IP Logger-Discord Webhook,
