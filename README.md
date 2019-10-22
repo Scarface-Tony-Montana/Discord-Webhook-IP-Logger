@@ -3,7 +3,7 @@ This is a PHP IP logger I made that sends the IP's to a Discord webhook.
 # Features
 - Grabs the IP then gets info about it after that it sends it to a webhook you have entered in the file.  
 - Gets Geo Location & ISP aswell as information regarding if its a VPN/Home Connection  
-- Filters out bots  
+- Filters out bots/site crawlers  
 # How to use
 Step 1: Go into the settings of your Discord server, click webhooks and create one then copy the link to it.  
 Step 2: Put in the field of `$webhookurl = "";` with https://discordapp.com/api/webhooks/ included at the beginning.
