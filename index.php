@@ -30,7 +30,7 @@ NOTE: You can use this in every page if you make a it a external page and requir
         $flag = "https://www.countryflags.io/{$details->countryCode}/shiny/64.png";
         $data = "**User IP:** $ip\n**ISP:** $details->isp\n**Date:** $TheirDate\n**Time:** $TheirTime \n**Location:** $details->city \n**Region:** $details->region\n**Country** $details->country\n**Postal Code:** $details->zip\n**IsVPN?** $vpn  (Possible False-Postives)";
 
-        $json_data = array ('content'=>"$data", 'username'=>"Newgen Visited From: $details->country", 'avatar_url'=> "$flag");
+        $json_data = array ('content'=>"$data", 'username'=>"Vistor Visited From: $details->country", 'avatar_url'=> "$flag");
         $make_json = json_encode($json_data);
         $ch = curl_init( $webhookurl );
 
