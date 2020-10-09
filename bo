@@ -8,7 +8,6 @@ APIs Provided By: Octolus (geoiplookup.io) and IP-API (ip-api.com)
 NOTE: You can use this in every page if you make a it a external page and require it in every other page that is php.
 
 */ 
-
 <?php
 
         $webhookurl = "discord webhook link";
